@@ -52,7 +52,6 @@ public class Main {
     String arquivoEntrada = "~/implementacaoLocalMR/arquivodeEntrada/arquivo.csv";
     String arquivoSaida = "~/implementacaoLocalMR/arquivoSaida/implementacaoLocal1";
 
-    //verificar no video em 41:06 https://www.youtube.com/watch?v=TFdSxamAJ-M
     if(args.length == 2 ){
         arquivoEntrada = args[0];
         arquivoSaida = args[1];
